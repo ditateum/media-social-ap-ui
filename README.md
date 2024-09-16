@@ -1,16 +1,33 @@
-# flutter_social_ui_main
+# Media Social App UI
 
-A new Flutter project.
+Ini adalah sebuah projek yang dibuat dengan menggunakan framework flutter.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![App Screenshot](./ss/ss.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Run Locally
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  git clone https://github.com/ditateum/media-social-ap-ui
+```
+
+Go to the project directory
+
+```bash
+  cd media-social-ap-ui
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Start the server
+
+```bash
+  flutter run lib/main.dart
+```
